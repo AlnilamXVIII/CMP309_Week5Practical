@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CMP309_Week5Practical</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
